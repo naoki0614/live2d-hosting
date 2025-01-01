@@ -1,34 +1,3 @@
-{
-	"Version": 3,
-	"Meta": {
-		"UserDataCount": 5,
-		"TotalUserDataSize": 20
-	},
-	"UserData": [
-		{
-			"Target": "ArtMesh",
-			"Id": "Hair2",
-			"Value": "hair"
-		},
-		{
-			"Target": "ArtMesh",
-			"Id": "Hair4",
-			"Value": "hair"
-		},
-		{
-			"Target": "ArtMesh",
-			"Id": "Hair5",
-			"Value": "hair"
-		},
-		{
-			"Target": "ArtMesh",
-			"Id": "Hair3",
-			"Value": "hair"
-		},
-		{
-			"Target": "ArtMesh",
-			"Id": "Hair1",
-			"Value": "hair"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0999d1b734818f9990a7d435c0dcf1ec76353db4864fb0071b8fdaae478fb4b9
+size 448

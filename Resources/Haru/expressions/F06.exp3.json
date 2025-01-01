@@ -1,35 +1,3 @@
-{
-	"Type": "Live2D Expression",
-	"Parameters": [
-		{
-			"Id": "ParamEyeLOpen",
-			"Value": 2,
-			"Blend": "Multiply"
-		},
-		{
-			"Id": "ParamEyeROpen",
-			"Value": 2,
-			"Blend": "Multiply"
-		},
-		{
-			"Id": "ParamBrowLY",
-			"Value": 1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowRY",
-			"Value": 1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouthForm",
-			"Value": -1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamEyeBallForm",
-			"Value": -0.65,
-			"Blend": "Add"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bf9ad6a640b8009d429d883718b2bf2d0091b380c63ca1c65326bdbc17105aa
+size 475
